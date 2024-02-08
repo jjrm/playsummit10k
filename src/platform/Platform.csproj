@@ -44,6 +44,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Sitecore.Performance.LhDataGenerator">
+      <HintPath>perf\Sitecore.Performance.LhDataGenerator.dll</HintPath>
+    </Reference>
     <Reference Include="Spe">
       <HintPath>lib\Spe.dll</HintPath>
       <Private>False</Private>
