@@ -1,0 +1,42 @@
+﻿---
+ID: "242de835-798c-43d8-9f3c-e54ae99c8ac1"
+Parent: "cfaaef35-a667-4bdb-8dbc-c7b50958fadc"
+Template: "819c5f1d-58e0-432f-bd5a-a523ba8aebce"
+Path: "/sitecore/content/Home/PlaySummit100/prefix-hsF2Ne-gZ"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B43BDA0C-6204-40F7-8FFF-182A446A51A3}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240321T190122Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec12b20b-0b48-446e-8d3c-ace429b1ec94"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        default\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240321T190122Z
+    - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
+      Hint: Name
+      Value: "prefix-hsF2Ne-gZ"
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: "prefix-hsF2Ne-gZ"

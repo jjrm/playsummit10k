@@ -1,0 +1,42 @@
+﻿---
+ID: "04cf99c7-fe0f-4d48-8837-3253b605294c"
+Parent: "c422ccb8-26f5-4f3e-b396-9afe77fdeacb"
+Template: "819c5f1d-58e0-432f-bd5a-a523ba8aebce"
+Path: "/sitecore/content/Home/PlaySummit1000a/Items008/speaker-ygNxcCTS6"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{50309C66-5649-4FB0-8EF0-49FEF597AA12}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240321T193633Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69ba3d0d-1f9f-4fd5-a7cd-7672abd9440d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        default\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240321T193633Z
+    - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
+      Hint: Name
+      Value: "speaker-ygNxcCTS6"
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: "speaker-ygNxcCTS6"
