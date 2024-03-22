@@ -1,0 +1,13 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Home",
+    "items": {
+        "includes": [
+            {
+                "name": "TestHome",
+                "path": "/sitecore/content/Home",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}
